@@ -58,7 +58,6 @@ def display_students():
     else:
         for s in students:
             print(f"Name: {s['Name']} | Age: {s['Age']} | Marks: {s['Marks']}")
-        print()
 
         
 def search_student():
