@@ -1,0 +1,6 @@
+Student Report:
+__________________
+
+Name	|Age	|Marks
+Chetan	|21	|95
+Mamatha	|20	|85
