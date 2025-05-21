@@ -26,4 +26,4 @@ class Student:
 # Usage
 s = Student("Chetan")
 s.set_grade(192)
-print(f"{s.name} got {s.get_grade()}.\n")  # Output: 92
+print(f"{s.name} got {s.get_grade()}.\n")
