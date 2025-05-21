@@ -1,4 +1,22 @@
 """
+
+All OOPS concepts in python.
+
+| Concept                | Purpose                                |
+| ---------------------- | -------------------------------------- |
+| Class & Object         | Structure and instantiate data         |
+| Encapsulation          | Hide internal details                  |
+| Abstraction            | Hide complex logic using base classes  |
+| Inheritance            | Reuse code from a parent class         |
+| Polymorphism           | Multiple forms of same interface       |
+| Constructor/Destructor | Initialize & clean up objects          |
+| Method Overriding      | Modify parent method in child class    |
+| Class/Static Methods   | Utility functions or class-level logic |
+| Property               | Treat method as attribute              |
+| Operator Overloading   | Redefine standard operators            |
+| Multiple Inheritance   | Inherit from multiple classes          |
+
+
 What Is OOP?
 OOP is a programming model where you structure code using classes and objects.
 
